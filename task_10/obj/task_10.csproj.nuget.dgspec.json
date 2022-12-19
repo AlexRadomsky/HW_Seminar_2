@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Рабочий стол\\task_10\\task_10.csproj": {}
+    "C:\\Users\\Alex\\Desktop\\lesson2\\task_10\\task_10.csproj": {}
   },
   "projects": {
-    "D:\\Рабочий стол\\task_10\\task_10.csproj": {
+    "C:\\Users\\Alex\\Desktop\\lesson2\\task_10\\task_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Рабочий стол\\task_10\\task_10.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\lesson2\\task_10\\task_10.csproj",
         "projectName": "task_10",
-        "projectPath": "D:\\Рабочий стол\\task_10\\task_10.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Рабочий стол\\task_10\\obj\\",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\lesson2\\task_10\\task_10.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\lesson2\\task_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
